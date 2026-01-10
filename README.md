@@ -1,13 +1,14 @@
 # licensing
 
 ## Description
-Project licensing
+Repository containing license texts (GPL, etc.) and related documentation.
 
 ## Goals
-- [ ] Add project goals
+- [ ] Centralize license documents
+- [ ] Ensure compliance
 
 ## Progress
-- [ ] Initial setup
+- [ ] License files present
 
 ---
 *AI assisted*
